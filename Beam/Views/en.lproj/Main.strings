@@ -1,0 +1,36 @@
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "6fc-HW-ygc"; */
+"6fc-HW-ygc.title" = " ";
+
+/* Class = "UILabel"; text = "Documents (4)"; ObjectID = "8ZI-oh-G5f"; */
+"8ZI-oh-G5f.text" = "Documents (4)";
+
+/* Class = "UILabel"; text = "Links (11)"; ObjectID = "ANE-Pl-uyK"; */
+"ANE-Pl-uyK.text" = "Links (11)";
+
+/* Class = "UITabBarItem"; title = "Scan"; ObjectID = "Cgz-8N-m4l"; */
+"Cgz-8N-m4l.title" = "Scan";
+
+/* Class = "UITabBarItem"; title = "Products"; ObjectID = "O1q-0H-NHn"; */
+"O1q-0H-NHn.title" = "Products";
+
+/* Class = "UILabel"; text = "Contacts (7)"; ObjectID = "PEO-lm-jk7"; */
+"PEO-lm-jk7.text" = "Contacts (7)";
+
+/* Class = "UILabel"; text = "EF 50mm f/1.8 STM Lens"; ObjectID = "ShA-RC-wKI"; */
+"ShA-RC-wKI.text" = "EF 50mm f/1.8 STM Lens";
+
+/* Class = "UILabel"; text = "Add your first product!"; ObjectID = "Y4L-BN-XCc"; */
+"Y4L-BN-XCc.text" = "Add your first product!";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "dMK-b3-dkW"; */
+"dMK-b3-dkW.text" = "Scan";
+
+/* Class = "UILabel"; text = "One of the most versatile focal lengths available, the EF 50mm f/1.8 STM Lens from Canon is a compact, normal-length prime well-suited to everyday shooting. The bright f/1.8 maximum aperture benefits working in difficult lighting conditions and also affords increased control over depth of field for isolating subject matter."; ObjectID = "ePx-xN-V1g"; */
+"ePx-xN-V1g.text" = "One of the most versatile focal lengths available, the EF 50mm f/1.8 STM Lens from Canon is a compact, normal-length prime well-suited to everyday shooting. The bright f/1.8 maximum aperture benefits working in difficult lighting conditions and also affords increased control over depth of field for isolating subject matter.";
+
+/* Class = "UILabel"; text = "0570C002"; ObjectID = "flO-RC-XoF"; */
+"flO-RC-XoF.text" = "0570C002";
+
+/* Class = "UILabel"; text = "Resources"; ObjectID = "h5i-3t-zuU"; */
+"h5i-3t-zuU.text" = "Resources";

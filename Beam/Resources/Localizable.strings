@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Beam
+
+  Created by Nileshkumar Mukeshbhai Prajapati on 2021/10/26.
+  
+*/
+"products_title" = "Products";
+"zero_products" = "0 products";
+"resources_title" = "Resources";
+"scan_title" = "Scan";
+"add_first_product" = "Add your first product!";
+"document_icon_title" = "Documents (4)";
+"contact_icon_title" = "Contacts (7)";
+"link_icon_title" = "Links (11)";
+"button_confirm" = "Confirm";
+"button_rescan" = "Re-scan";
+
